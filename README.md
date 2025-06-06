@@ -3,10 +3,10 @@ Movie Recommendation System
   It recommends similar based on the users input using "Content-based filtering".
 
 Features:
-  Accepts user input for a movie title.
-  Uses 'difflib.get_close_matches()' to find matching movie names.
-  Calculates similarity using cosine similarity.
-  Recommends top similar movies based on descriptions or genre.
+  1.Accepts user input for a movie title.
+  2.Uses 'difflib.get_close_matches()' to find matching movie names.
+  3.Calculates similarity using cosine similarity.
+  4.Recommends top similar movies based on descriptions or genre.
   
 How it works:
   1. Load and preprocess the dataset
